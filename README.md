@@ -1,2 +1,2 @@
-# daysofpython
-repo for days of python blog
+# daysofpythonblog
+Official Repository for 30DaysOfPython Project
